@@ -2,7 +2,7 @@
 
 Landing page de portfólio pessoal de **Henrique**, desenvolvedor full-stack. Feita só com HTML, CSS e JavaScript puros, sem frameworks e sem bibliotecas, com foco em desempenho e em animações de scroll.
 
-🔗 **Demo:** _adicione aqui o link publicado_
+🔗 **Demo:** https://henrique498-dev.vercel.app/
 
 ## Sobre o projeto
 
